@@ -1,4 +1,4 @@
-# StarWarsQueryApp
+# StarWarsQueryApp (Flutter App)
 
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-09-18 at 14 45 38](https://github.com/user-attachments/assets/fdc2b0df-2727-466f-bcde-95719a784f2c)
 
